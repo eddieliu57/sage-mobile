@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <rect id="rect-1" width="20" height="20" x="0" y="0"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="20" height="20" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-1"/>
+    </mask>
+  </defs>
+  <g>
+    <use fill="none" xlink:href="#rect-1"/>
+    <g mask="url(#mask-2)">
+      <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.525 11.99166667l-.6 4.775c-.05085284.42080422-.4094786.7363949-.83333333.73333333H4.9c-.42385473.00306156-.7824805-.31252911-.83333333-.73333333l-.6-4.775"/>
+      <g>
+        <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.93333333 11.85833333l-3.775 1.25833334c-2.05025346.68247087-4.2664132.68247087-6.31666666 0l-3.775-1.25833334C2.71219088 11.73917173 2.4805071 11.3984603 2.5 11.025V5.83333333h15v5.23333334c.0009248.35826326-.22724024.67702323-.56666667.79166666h0z"/>
+        <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.99071595 10h-2"/>
+        <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.16666667 5c0-1.38071187-1.11928813-2.5-2.5-2.5H8.33333333c-1.38071187 0-2.5 1.11928813-2.5 2.5v.83333333h8.33333334V5z"/>
+      </g>
+    </g>
+  </g>
+</svg>

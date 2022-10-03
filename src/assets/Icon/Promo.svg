@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <rect id="rect-1" width="24" height="24" x="0" y="0"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="24" height="24" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-1"/>
+    </mask>
+  </defs>
+  <g>
+    <use fill="none" xlink:href="#rect-1"/>
+    <g mask="url(#mask-2)">
+      <g>
+        <path fill="none" stroke="rgb(138,154,91)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 15l6-6"/>
+        <path fill="none" stroke="rgb(138,154,91)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.22 9.33c-.3-.91-.1-2.08-.65-2.83s-1.73-.94-2.49-1.5c-.76-.56-1.28-1.61-2.19-1.9-.91-.29-1.89.26-2.89.26-1 0-2-.55-2.89-.26-.89.29-1.43 1.36-2.19 1.9-.76.54-1.92.73-2.49 1.5-.57.77-.35 1.92-.65 2.83-.3.91-1.14 1.67-1.14 2.67s.86 1.79 1.14 2.67c.28.88.1 2.08.65 2.83s1.73.94 2.49 1.49c.76.55 1.28 1.62 2.19 1.91.91.29 1.89-.26 2.89-.26 1 0 2 .55 2.89.26.89-.29 1.43-1.36 2.19-1.91.76-.55 1.94-.72 2.49-1.49.55-.77.35-1.92.65-2.83.3-.91 1.14-1.67 1.14-2.67s-.86-1.79-1.14-2.67h0z"/>
+      </g>
+      <path fill="none" stroke="rgb(138,154,91)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.45 9.5h.1"/>
+      <path fill="none" stroke="rgb(138,154,91)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.45 14.5h.1"/>
+    </g>
+  </g>
+</svg>

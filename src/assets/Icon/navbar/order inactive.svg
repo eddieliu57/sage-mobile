@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <rect id="rect-1" width="24" height="24" x="0" y="0"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="24" height="24" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-1"/>
+    </mask>
+  </defs>
+  <g>
+    <use fill="none" xlink:href="#rect-1"/>
+    <g mask="url(#mask-2)">
+      <ellipse cx="6" cy="7" fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" rx="3" ry="3"/>
+      <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5h9"/>
+      <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9h7"/>
+      <ellipse cx="6" cy="17" fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" rx="3" ry="3"/>
+      <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15h9"/>
+      <path fill="none" stroke="rgb(189,189,189)" stroke-dasharray="0 0 0 0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19h7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+{
+  "login": {
+    "welcomeText": "Hi, Welcome to Sage!",
+    "welcomeDescription": "Dont pass our excellent products for you",
+    "loginText": "Phone Number",
+    "loginPlaceholder": "Type your phone number here...",
+    "helpText": "Need a help? Call",
+    "helpTextLink": " Sage care here",
+    "loginButton": "Login",
+    "loginAs": "Sign up "
+  },
+  "signup": {
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter First Name...",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter Last Name...",
+    "email": "Email",
+    "emailPlaceholder": "Enter Email...",
+    "password": "Password",
+    "passwordPlaceholder": "Enter Password...",
+    "username": "Username",
+    "usernamePlaceholder": "Enter Username...",
+    "mobileNumber": "Mobile Number",
+    "gender": "Gender",
+    "privacyPolicy": "By registering you have agreed to the Terms of Service and Privacy Policy",
+    "alreadyAccount": "Already have an account ?",
+    "loginNow": "login now",
+    "register": "Register"
+  },
+  "home": {
+    "category": "Category",
+    "ourProducts": "Our Products",
+    "shippingTo": "Shipping to",
+    "whatYouWantToBuyToday": "What you want to buy today?",
+    "findProducts": "Find Products here"
+  },
+  "detail": {
+    "detailProduct": "Detail Product",
+    "addToCart": "Add to Cart",
+    "productDescription": "Product Description",
+    "howToUse": "How to Use",
+    "registrationNumber": "Registration Number"
+  },
+  "consult": {
+    "consultWithExpert": "Consult with Experts",
+    "searchDoctor": "find a doctor"
+  },
+  "cart": {
+    "myShoppingBag": "My Shopping Bag",
+    "redeemVoucher": "Redeem Voucher",
+    "apply": "Apply",
+    "availableVouchers": "Check out the vouchers available to you",
+    "notIncludingShippingCost": "Not including shipping cost",
+    "applyVoucher": "Apply Voucher"
+  },
+  "common": {
+    "available": "Available",
+    "retailPrice": "Retail Price",
+    "item": "Item",
+    "verification": "Verification",
+    "codeSend": "The verification code has been sent to the number ",
+    "enterCode": "Enter OTP code",
+    "verify": "Verify"
+  }
+}

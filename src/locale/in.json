@@ -1,0 +1,61 @@
+{
+  "login": {
+    "welcomeText": "Hi, Welcome to Sage!",
+    "welcomeDescription": "Dont pass our excellent products for you",
+    "loginText": "Phone Number",
+    "loginPlaceholder": "Type your phone number here...",
+    "helpText": "Need a help? Call",
+    "helpTextLink": " Sage care here",
+    "loginButton": "Login"
+  },
+  "signup": {
+    "firstName": "Nama Depan",
+    "lastName": "Nama Belakang",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "mobileNumber": "Nomor Handphone",
+    "gender": "Jenis Kelamin",
+    "privacyPolicy": "Dengan melakukan pendaftaran kamu telah menyetujui Ketentuan Layanan dan Kebijakan Privasi",
+    "alreadyAccount": "Sudah memiliki akun ?",
+    "loginNow": "Masuk Sekarang",
+    "register": "Register"
+  },
+  "home": {
+    "category": "Kategori",
+    "ourProducts": "Produk Kami",
+    "retailPrice": "Harga Retail",
+    "available": "Tersedia",
+    "selectAddressHere": "Pilih Alamat Disini",
+    "whatYouWantToBuyToday": "mau belanja apa hari ini ?",
+    "findProducts": "Cari Produk disini"
+  },
+  "detail": {
+    "detailProduct": "Detail Produk",
+    "addToCart": "Tambahkan ke Keranjang",
+    "productDescription": "Deskripsi Produk",
+    "howToUse": "Atrun Pakai",
+    "registrationNumber": "No. Registrasi"
+  },
+  "consult": {
+    "consultWithExpert": "konsultasi dengan ahlinya",
+    "searchDoctor": "Cari Dokter"
+  },
+  "cart": {
+    "myShoppingBag": "Tas belanja saya",
+    "redeemVoucher": "Tukarkan Voucher",
+    "apply": "Terapkan",
+    "availableVouchers": "Lihat voucher yang tersedia untukmu",
+    "notIncludingShippingCost": "Belum termasuk biaya pengiriman",
+    "applyVoucher": "Terapkan Voucher"
+  },
+  "common": {
+    "available": "Tersedia",
+    "retailPrice": "Harga eceran",
+    "item": "Barang",
+    "verification": "verfikasi dengan WhatsApp",
+    "codeSend": "Kami telah mengirimkan kode verifikasi melalui WhatsApp ke ",
+    "enterCode": "Masukan kode verifikasi",
+    "verify": "Verifikasi"
+  }
+}

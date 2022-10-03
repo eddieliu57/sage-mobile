@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g>
+    <path fill="rgb(138,154,91)" fill-rule="evenodd" d="M5 0h14c2.75957512 0 5 2.24042488 5 5v14c0 2.75957512-2.24042488 5-5 5H5c-2.75957512 0-5-2.24042488-5-5V5c0-2.75957512 2.24042488-5 5-5z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="9" y="16.5" fill="rgb(255,255,255)" font-family="Montserrat" font-size="14" font-weight="700" style="white-space:pre;text-transform:none">1</tspan>
+    </text>
+  </g>
+</svg>
